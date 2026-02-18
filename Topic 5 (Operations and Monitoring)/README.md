@@ -87,7 +87,7 @@ Multiple areas to monitor and setup notifications or alerts.
 
 ### Monitoring
 
-![img](https://prometheus.io/assets/architecture.png)
+![prometheus-architecture](https://prometheus.io/assets/docs/architecture.svg)
 
 #### Prometheus
 
